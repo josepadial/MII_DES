@@ -1,0 +1,84 @@
+#s-09be4916-ad40-4ea6-9bf9-5b549602f231 > #backgroundBox {
+  position: absolute;
+}
+#s-09be4916-ad40-4ea6-9bf9-5b549602f231 > #alignmentBox {
+  position: relative;
+}
+#s-09be4916-ad40-4ea6-9bf9-5b549602f231 #s-Image {
+  position: absolute;
+  width: 1366.0px;
+  height: 768.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+#s-09be4916-ad40-4ea6-9bf9-5b549602f231 #s-Hotspot_1 {
+  position: absolute;
+  width: 241.0000000000001px;
+  height: 122.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-09be4916-ad40-4ea6-9bf9-5b549602f231 #s-Hotspot_2 {
+  position: absolute;
+  width: 253.0px;
+  height: 100.99999999999994px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-09be4916-ad40-4ea6-9bf9-5b549602f231 #s-Hotspot_3 {
+  position: absolute;
+  width: 137.0px;
+  height: 91.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-09be4916-ad40-4ea6-9bf9-5b549602f231 #s-Hotspot_4 {
+  position: absolute;
+  width: 117.99999999999915px;
+  height: 84.10419273376453px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-09be4916-ad40-4ea6-9bf9-5b549602f231 #s-Hotspot_5 {
+  position: absolute;
+  width: 111.0px;
+  height: 81.99999999999989px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-09be4916-ad40-4ea6-9bf9-5b549602f231 #s-Hotspot_6 {
+  position: absolute;
+  width: 185.0000000000001px;
+  height: 85.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-09be4916-ad40-4ea6-9bf9-5b549602f231 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

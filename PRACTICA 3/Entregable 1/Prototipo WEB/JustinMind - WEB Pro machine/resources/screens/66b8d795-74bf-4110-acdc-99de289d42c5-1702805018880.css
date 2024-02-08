@@ -1,0 +1,86 @@
+#s-66b8d795-74bf-4110-acdc-99de289d42c5 > #backgroundBox {
+  position: absolute;
+}
+#s-66b8d795-74bf-4110-acdc-99de289d42c5 > #alignmentBox {
+  position: relative;
+}
+#s-66b8d795-74bf-4110-acdc-99de289d42c5 #s-Image {
+  position: absolute;
+  width: 1366.0px;
+  height: 768.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+#s-66b8d795-74bf-4110-acdc-99de289d42c5 #s-Hotspot_1 {
+  position: absolute;
+  width: 100.0px;
+  height: 80.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-66b8d795-74bf-4110-acdc-99de289d42c5 #s-Hotspot_2 {
+  position: absolute;
+  width: 367.0px;
+  height: 80.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-66b8d795-74bf-4110-acdc-99de289d42c5 #s-Hotspot_3 {
+  position: absolute;
+  width: 162.0px;
+  height: 96.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-66b8d795-74bf-4110-acdc-99de289d42c5 #s-Hotspot_4 {
+  position: absolute;
+  width: 241.0px;
+  height: 91.99999999999999px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-66b8d795-74bf-4110-acdc-99de289d42c5 #s-Hotspot_5 {
+  position: absolute;
+  width: 133.49999999999955px;
+  height: 91.99999999999999px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-66b8d795-74bf-4110-acdc-99de289d42c5 #s-Hotspot_6 {
+  position: absolute;
+  width: 193.00000000000014px;
+  height: 114.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-66b8d795-74bf-4110-acdc-99de289d42c5 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
